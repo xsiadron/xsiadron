@@ -1,4 +1,4 @@
-Hi 👋 My name is Lukas Frydrych
+Hi 👋 My name is Luke Frydrych
 ===============================
 
 Indie game, apps, pages Developer
