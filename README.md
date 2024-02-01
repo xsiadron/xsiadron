@@ -1,7 +1,7 @@
 Hi 👋 My name is Luke Frydrych
 ===============================
 
-Indie game, apps, pages Developer
+Indie game, apps, web developer
 ---------------------------------
 
 My work focuses on: Unreal Engine, Android Studio, Affinity Designer, 3D Graphical Softwares, Audio Editor, Softwares & Javascript Frameworks.
