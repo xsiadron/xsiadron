@@ -15,7 +15,7 @@ You will see my progress on: <br/>
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://xsiadron.itch.io)
 [![Google Play](https://img.shields.io/badge/Google_Play-4285f4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8033109391717227505)
 [![Epic Games](https://img.shields.io/badge/Epic%20Games-201c1c?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/pl/browse?q=xsiadron&sortBy=relevancy&sortDir=DESC&count=40&start=0)
-[![Steam](https://img.shields.io/badge/Steam-181c24?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Dani)
+[![Steam](https://img.shields.io/badge/Steam-181c24?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=xsiadron)
 <br/>
 and on [xsiadron.com](http://xsiadron.com).
 
