@@ -55,11 +55,6 @@ and on [xsiadron.com](http://xsiadron.com).
     - Music & Sound Effects<br/>
     ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=whitee)
 
-### Incompetences
-- I can't find a sincere and loyal person with whom I can act, talk and support, working both ways.
-- I am also not the best at conversations or quick answers.
-- I'm not 100% consistent in my projects, for that I am in client projects.</br>
-
 What sets me apart? Action, despite everything I do, I act and develop my incompetence into competence.
 
 ### Do you want to collaborate with me? 
