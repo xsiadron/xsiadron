@@ -10,7 +10,7 @@ I live and work as a freelancer in Poland trying to ensure the best quality as p
 My work focuses on web development, games making and scripting, nevertheless, I love working on many other unrelated projects.<br/>
 What I also love is social media management, video editing, graphics and modeling and projects on arduino. Since I am also a game developer I spend a lot of time playing :D
 
-👊 Checkout my projects on [xsiadron.com](http://xsiadron.com) and anywhere else
+👊 Checkout my projects on [xsiadron.com](http://xsiadron.com) and anywhere else.
 
 ### Skills
 - Languages<br/>
